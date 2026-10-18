@@ -2,7 +2,7 @@
 
   <!-- Header animado com efeito de digitação -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+eu+sou+o+Wellington+Leite+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%7C+Node.js+%E2%80%A2+React+%E2%80%A2+PHP;Infraestrutura%2C+DevOps+%26+Cloud;Solu%C3%A7%C3%B5es+Corporativas%2C+ERPs+%26+SaaS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+eu+sou+o+Wellington+Leite+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%7C+Node.js+%E2%80%A2+React+%E2%80%A2+PHP;Infraestrutura%2C+DevOps+%26+Cloud;Solu%C3%A7%C3%B5es+Corporativas+%26+SaaS" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -66,7 +66,6 @@ Sou profissional de **Tecnologia da Informação** com experiência em desenvolv
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/ERP_Integrations-3B82F6?style=flat-square" alt="ERP Integrations" />
   <img src="https://img.shields.io/badge/GLPI-ITSM_%26_Chamados-2680EB?style=flat-square" alt="GLPI" />
 </p>
 
