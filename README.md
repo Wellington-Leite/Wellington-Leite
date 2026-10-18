@@ -95,7 +95,6 @@ Sou profissional de **Tecnologia da Informação** com experiência em desenvolv
 | **[Nodium Suite](https://bambuitech.com.br/)** | Projeto de plataforma SaaS modular, multiempresa e multiusuário, com foco em gestão corporativa escalável. | `SaaS` `Node.js` `TypeScript` `SQL` |
 | **[Canal de Denúncias SST](https://denuncias.grupoengeset.com.br/)** | Plataforma SaaS e PWA de canal confidencial de relatos e conformidade com a NR-01 para o Grupo Engeset. | `React` `PWA` `TypeScript` `SaaS` |
 | **[BambuiTech](https://bambuitech.com.br/)** | Desenvolvimento de sites, sistemas web, integrações de APIs e soluções digitais sob medida para empresas. | `Web Solutions` `APIs` `React` `PHP` |
-| **ColaBee** | Aplicação web desenvolvida para apoio a processos internos e rotinas empresariais na Bee Própolis Brasil. | `Web App` `Internal Tooling` `Automações` |
 
 ---
 
