@@ -7,7 +7,7 @@
 
   <p align="center">
     <b>Desenvolvedor Full Stack • Infraestrutura & DevOps • Soluções Corporativas</b><br/>
-    <sub>Tecnologia da Informação na Bee Própolis Brasil • Fundador da BambuiTech • Estudante de ADS no IFMG</sub>
+    <sub>Tecnologia da Informação na Bee Própolis Brasil • Fundador da BambuiTech • Graduado em ADS pelo IFMG</sub>
   </p>
 
   <p align="center">
@@ -32,7 +32,7 @@ Sou profissional de **Tecnologia da Informação** com experiência em desenvolv
 
 - 🏢 **Bee Própolis Brasil**: Contribuo na gestão de TI, sustentação de sistemas corporativos, ITSM (GLPI), infraestrutura, segurança da informação e desenvolvimento de soluções internas.
 - 🚀 **BambuiTech**: Desenvolvo aplicações web, plataformas SaaS, integrações com APIs e soluções tecnológicas para empresas.
-- 🎓 **IFMG (Campus Bambuí)**: Graduando em Análise e Desenvolvimento de Sistemas.
+- 🎓 **IFMG (Campus Bambuí)**: Graduado em Análise e Desenvolvimento de Sistemas.
 - 🎯 **Áreas de Interesse**: Arquitetura de software, DevOps, inteligência artificial aplicada a negócios e desenvolvimento de produtos escaláveis.
 
 ---
@@ -79,8 +79,6 @@ Sou profissional de **Tecnologia da Informação** com experiência em desenvolv
 - **Integração de Sistemas & Bancos Corporativos**: Conexão entre bases de dados relacionais e plataformas integradas.
 - **Administração e Suporte a Sistemas ERP**: Parametrização, rotinas críticas e apoio a processos empresariais.
 - **Gestão de Serviços & Ativos (ITSM / GLPI)**: Implantação e administração do GLPI para controle de chamados, inventário de TI e suporte a usuários.
-- **Automação de Processos Operacionais**: Redução de esforço manual com rotinas inteligentes e scripts.
-- **Monitoramento e Indicadores**: Implantação de visões analíticas e saúde de serviços.
 
 #### ☁️ Infraestrutura & DevOps
 - **Administração de Servidores**: Gerenciamento contínuo de ambientes Linux e Windows Server.
@@ -96,6 +94,7 @@ Sou profissional de **Tecnologia da Informação** com experiência em desenvolv
 | Projeto | Descrição | Foco Tecnológico |
 | :--- | :--- | :--- |
 | **[Nodium Suite](https://bambuitech.com.br/)** | Projeto de plataforma SaaS modular, multiempresa e multiusuário, com foco em gestão corporativa escalável. | `SaaS` `Node.js` `TypeScript` `SQL` |
+| **[Canal de Denúncias SST](https://denuncias.grupoengeset.com.br/)** | Plataforma SaaS e PWA de canal confidencial de relatos e conformidade com a NR-01 para o Grupo Engeset. | `React` `PWA` `TypeScript` `SaaS` |
 | **[BambuiTech](https://bambuitech.com.br/)** | Desenvolvimento de sites, sistemas web, integrações de APIs e soluções digitais sob medida para empresas. | `Web Solutions` `APIs` `React` `PHP` |
 | **ColaBee** | Aplicação web desenvolvida para apoio a processos internos e rotinas empresariais na Bee Própolis Brasil. | `Web App` `Internal Tooling` `Automações` |
 
